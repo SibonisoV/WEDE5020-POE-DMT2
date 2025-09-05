@@ -20,4 +20,4 @@ africa-the-2025-lineup/
 
 # Changelogs 
 
-## The corrections or improvements I made from my part 1 is referencing images. Now all my images in my proposal are references 
+The corrections or improvements I made from my part 1 is referencing images. Now all my images in my proposal are referenced 
